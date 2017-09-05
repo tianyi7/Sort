@@ -1,7 +1,7 @@
 /**
  * Author: tianyi
  * Time: 2017/9/5
- * Question:
+ * Question:快速排序
  * Source:
  */
 import java.util.Scanner;
